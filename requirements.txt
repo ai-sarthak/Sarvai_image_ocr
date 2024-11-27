@@ -3,3 +3,4 @@ uvicorn==0.22.0
 opencv-python-headless==4.7.0.68
 pytesseract==0.3.10
 numpy==1.23.5
+python-multipart==0.0.6
