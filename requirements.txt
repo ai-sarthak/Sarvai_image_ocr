@@ -1,5 +1,5 @@
-Flask==2.0.3
-Werkzeug==2.0.3
-opencv-python==4.5.5.62
-pytesseract==0.3.8
-numpy==1.21.5 
+fastapi==0.103.1
+uvicorn==0.22.0
+opencv-python-headless==4.7.0.68
+pytesseract==0.3.10
+numpy==1.23.5
