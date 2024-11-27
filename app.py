@@ -2,7 +2,8 @@ from flask import Flask, request, jsonify
 import cv2
 import pytesseract
 import numpy as np
-import base64from flask import Flask, request, jsonify
+import base64
+from flask import Flask, request, jsonify
 import cv2
 import pytesseract
 import numpy as np
